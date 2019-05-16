@@ -12,7 +12,7 @@
 
 ## نصب
 
-بسته پایتون `moratab` آسان نصب می‌شود:
+بسته پایتون `moratab` آfان نصب می‌شود:
 
 <pre dir="ltr">pip install moratab</pre>
 
